@@ -1,0 +1,14 @@
+{
+  "source": "/Users/triphung/Documents/Simplify Guided/output/component-library",
+  "version": "1.0.0",
+  "files": {
+    "assemblies/activity-pill.svg": "fa008066702ecf7105bc8e320a23fefbd8aabae068625cbba8aed69f61a6df01",
+    "fonts/nunito-black.ttf": "9caa6d5464d4438c3092a05d47952099e208862cacd5f655acb64012a1a15e78",
+    "fonts/nunito-bold.ttf": "1a025dfce6e6e03bbe31ba82277ec5ed96df8b8dd58b3df6267269490b90b1dc",
+    "fonts/nunito-regular.ttf": "9ecbdba35fa74f10a1a916c31649b802a12deb9e66c7b1fe4650afcfd4d16971",
+    "fonts/playpen.ttf": "c5776505c7b3df3c3ca763477b795d6bbc6517760bede0462ab77d1fb44954a6",
+    "pf-components.css": "2d97ca4aafa89abf4225723be99a48bab43680cb2b3bf6449e14af745568a0ff",
+    "pf-components.js": "0ce817c2ea651ec29e6d09e7d38e28241eecdf2a51bacab70fe0f6e8611cd8c2",
+    "registry.json": "7e02743cba53844415b53ffd8545516221cdfc88afe6cfd22965041553bd8a56"
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440.0" height="810.0" viewBox="0 0 1440.0 810.0"><defs><clipPath id="r0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H6000V3375H0Z" clip-rule="evenodd" />
+</clipPath>
+</defs><g clip-path="url(#r0)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H1920V1080H0Z" fill="#f35c5c" />
+</g>
+</svg>

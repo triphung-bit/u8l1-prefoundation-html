@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "policy": "Component-first. A lesson must use a registered component when a matching component exists; custom CSS requires an explicit exception.",
+  "components": [
+    {
+      "id": "activity-pill",
+      "status": "production",
+      "source": "assemblies/activity-pill.svg · Canva page 6",
+      "slots": ["label"],
+      "notes": "Original Canva SVG supplies the red shape and puzzle icon; only the sample text area is replaced by live text."
+    },
+    {
+      "id": "activity-bar",
+      "status": "production",
+      "source": "activity-pill + title rail",
+      "slots": ["label", "title"],
+      "notes": "Primary lesson header. Keeps source pill proportions and accepts dynamic task titles."
+    },
+    {
+      "id": "section-pill",
+      "status": "production",
+      "source": "Canva red pill token",
+      "slots": ["text", "tone"]
+    },
+    {
+      "id": "number-badge",
+      "status": "production",
+      "source": "Canva numbered instruction badge",
+      "slots": ["number"]
+    },
+    {
+      "id": "instruction-card",
+      "status": "production",
+      "source": "assemblies/instruction-card.svg · Canva page 6",
+      "slots": ["number", "text"]
+    },
+    {
+      "id": "option-card",
+      "status": "production",
+      "source": "MCQ family",
+      "slots": ["letter", "text", "state"]
+    },
+    {
+      "id": "evidence-box",
+      "status": "production",
+      "source": "Reading answer family",
+      "slots": ["label", "text"]
+    },
+    {
+      "id": "category-card",
+      "status": "production",
+      "source": "Sorting and recap families",
+      "slots": ["text", "tone", "state"]
+    }
+  ]
+}
